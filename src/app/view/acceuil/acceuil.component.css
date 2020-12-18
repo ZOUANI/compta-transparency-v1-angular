@@ -1,0 +1,15 @@
+.wrap{
+    background: rgba(0,0,0,0.5) url("../../../assets/images/image.jpg") ;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden; 
+    background-blend-mode: overlay;
+    height: 400px;
+  }
+
+  .wave{
+    width: 100%;
+    color: #fff;
+    opacity: 1;
+    margin-top: 150px;  
+  }
