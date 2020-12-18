@@ -13,3 +13,22 @@
     opacity: 1;
     margin-top: 150px;  
   }
+
+  
+@media(max-width:1123px){
+  .wrap{
+    height: 350px;
+  }
+}
+
+@media(max-width: 898px){
+  .wrap{
+    height: 300px;
+  }
+}
+
+@media(max-width: 673px){
+  .wrap{
+    height: 250px;
+  }
+}
